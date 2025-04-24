@@ -4,3 +4,4 @@
 *.a
 # For now
 .vscode/
+*.img
