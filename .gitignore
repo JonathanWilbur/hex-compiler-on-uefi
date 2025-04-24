@@ -1,0 +1,6 @@
+*.efi
+*.o
+*.so
+*.a
+# For now
+.vscode/
